@@ -1,2 +1,24 @@
-# NASC
-NASC - Niijkiwendidaa Anishnaabekwag Services Circle (NASC) is a not-for-profit organization dedicated to the development and delivery of healing services for Anishnaabekwewag and their families who have been abused, are being abused, or are at risk of being abused.  Healing work is conducted through the use of traditional Anishnaabe spirituality, blended with other appropriate methods of healing.  Developing a ruby on rails project which help NASC to create a database for staff to input client information four times a year and have an automatic report created at the end of each quarter
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
